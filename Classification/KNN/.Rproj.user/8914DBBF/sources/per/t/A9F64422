@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1614257612801.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "335812837",
+    "id" : "A9F64422",
+    "lastKnownWriteTime" : 1614264547,
+    "last_content_update" : 1614264547075,
+    "path" : "C:/Users/Inspiron1545/Desktop/ML2021/KNN/knn.R",
+    "project_path" : "knn.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
